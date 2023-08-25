@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    color: seagreen;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+span, a {
+    display: inline-block;
+}
+.icon {
+  
+    position: absolute;
+    height: 100%;
+    color: white;
+    background-color: seagreen;
+    border-radius: 5px;
+    padding: 10px;
+}
+.link {
+    text-decoration: none;
+    margin-right: 10px ;
+    font-size: 24px;
+}
+.title {
+    margin-right: 20px;
+}
+.inp {
+    padding-left: 40px;
+    outline: none;
+    border: 2px solid seagreen;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  
+}
+.ore {
+    position: relative;
+    display: none;
+   
+}
+
+.tepa {
+    display: flex;
+
+    align-items: center;
+}
+.lang {
+background-color: seagreen;
+ margin-left: 700px;
+ text-align: center;
+ 
+ font-size: 18px;
+ text-transform: uppercase;
+}
+.text {
+    color: white;
+    padding: 20px;  
+    width: 100px;
+ height: 100% ;
+  
+}
+.text2 {
+    display: none;
+}
+.text1 {
+    color: white;
+    padding: 20px;
+  
+}
+.ic {
+    color: white;
+}
+.ikoj {
+    
+    height: 40px;
+    width: 40px;
+    border:2px solid seagreen     ;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    justify-content: center;
+}
+.if {
+    display: none;
+}
+.od {
+display: block;
+}
+
+.element {
+    display: block;
+}
+.wow , .el {
+    display: none;
+}
+.tex {
+    display: block;
+}
+.x {
+    background-color: red   ;
+}
+.teer {
+    margin-bottom: 10px;
+}
